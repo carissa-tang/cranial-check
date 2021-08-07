@@ -13,6 +13,7 @@ async function logout() {
 	const ans = await resp.json();
 }
 
+
 //--------------------------------GLOSSARY---------------------------//
 var conditionNames = document.getElementsByClassName("condition-name");
 var items = document.getElementsByClassName("glossary-item");
